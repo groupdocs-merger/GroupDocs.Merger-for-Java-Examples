@@ -23,6 +23,7 @@ public class PdfMergeFileFromByteStreamsExample {
         List<String> pdfFilePaths = Files.list(pdfDirectory)
                 .filter(path -> path.toString().toLowerCase().endsWith(".pdf"))
                 .map(Path::toString)
+                .sorted()
                 .collect(Collectors.toList());
 
         if(pdfFilePaths.isEmpty())return;
