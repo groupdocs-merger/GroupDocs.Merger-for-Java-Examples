@@ -16,6 +16,7 @@ Directory | Description
 ## Merge or Split Documents via Java
 
 - Merge pdf documents from one directory
+- Pdf auto tagging
 
 ## Get Started with GroupDocs.Merger for Java
 

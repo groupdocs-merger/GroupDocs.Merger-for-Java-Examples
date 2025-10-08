@@ -7,14 +7,14 @@
         <dependency>
             <groupId>com.groupdocs</groupId>
             <artifactId>groupdocs-merger</artifactId>
-            <version>25.7</version>
+            <version>25.9</version>
         </dependency>
     </dependencies>
     <repositories>
         <repository>
             <id>GroupDocs Artifact Repository</id>
             <name>GroupDocs Artifact Repository</name>
-            <url>https://releases.groupdocs.com/java/repo/</url>
+            <url>https://releases-qa.groupdocs.com/java/repo/</url>
         </repository>
         <repository>
             <id>maven-central</id>
