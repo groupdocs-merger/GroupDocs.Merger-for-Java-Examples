@@ -16,5 +16,7 @@ public class RunExamples {
         PdfMergeFileFromByteStreamsExample.run();
 
         //PdfMergeCommonExample.run();
+
+        //PdfAutoTaggingExample.run();
     }
 }
